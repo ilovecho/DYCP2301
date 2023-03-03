@@ -11,4 +11,6 @@
 #### TEST
 - 시스템테스트 코드를 만듭니다.(선택)
 
-`<link>`: <https://pandao.github.io/editor.md/en.html>
+
+`<md 작성참조>`: <https://pandao.github.io/editor.md/en.html>
+`<git 명령 참조>`: <https://medium.com/@joongwon/git-git-%EB%AA%85%EB%A0%B9%EC%96%B4-%EC%A0%95%EB%A6%AC-c25b421ecdbd>
